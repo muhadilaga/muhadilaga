@@ -119,6 +119,8 @@ Feel free to explore my repositories and follow my journey as I continue buildin
 
 ---
 
+<hr>
+
 <p align="center">
-  <img src="./assets/gif/Github Profile Terminal Footer GIF.gif" width="500" alt="Thanks for visiting">
+  <img src="./assets/gif/footer-terminal.gif" width="500" alt="Terminal Footer">
 </p>
