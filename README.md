@@ -23,7 +23,7 @@ I'm an **Informatics Engineering student** with an interest in **software develo
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php,cpp" />
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php,cpp" />
 </p>
 
 ### Web Technologies
