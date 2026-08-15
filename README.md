@@ -122,5 +122,10 @@ Feel free to explore my repositories and follow my journey as I continue buildin
 <hr>
 
 <p align="center">
-  <img src="./assets/gif/footer-terminal.gif" width="500" alt="Terminal Footer">
+  <samp>
+    ───────────── ✦ ─────────────<br>
+       Thanks for visiting.<br>
+       See you in the next commit.<br>
+    ───────────── ✦ ─────────────
+  </samp>
 </p>
