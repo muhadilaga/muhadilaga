@@ -1,10 +1,12 @@
-<img align="right" src="./assets/gif/adiberlaga.gif" width="200" alt="Adiberlaga Coding Sticker">
-
 ## Hi y'all! I'm Muhammad Adilaga👋
 
 🎓 Informatics Engineering Student
 💻 Interested in Software Development & Technology 
 🌱 Currently learning and building new projects
+
+<p align="center">
+  <img src="./assets/gif/new.gif" width="150" alt="Adiberlaga Coding Sticker">
+</p>
 
 <br clear="both">
 
