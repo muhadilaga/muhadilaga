@@ -1,16 +1,42 @@
-## Hi there 👋
+<img align="right" src="./assets/gif/adiberlaga.gif" width="200" alt="Adiberlaga Coding Sticker">
 
-<!--
-**muhadilaga/muhadilaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi y'all! I'm Muhammad Adilaga👋
 
-Here are some ideas to get you started:
+🎓 Informatics Engineering Student
+💻 Interested in Software Development & Technology 
+🌱 Currently learning and building new projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br clear="both">
+
+## 👨‍💻 About Me
+
+I'm an **Informatics Engineering student** with an interest in **software development and technology**.
+
+- 🎓 Studying Informatics Engineering
+- 💻 Exploring software development and modern technologies
+- 🌱 Learning by building projects and experimenting with new ideas
+- 🚀 Continuously improving my programming and problem-solving skills
+
+## 🛠️ Tech Stack
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,js,kotlin,php,cpp" />
+</p>
+
+### Web Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
+</p>
+
+### Tools & Database
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,mysql" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="./profile/stats.svg" alt="adiberlaga GitHub Stats" />
+  <img height="170" src="./profile/top-langs.svg" alt="adiberlaga Top Languages" />
+</p>
