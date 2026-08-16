@@ -45,12 +45,15 @@ I'm an **Informatics Engineering student** with an interest in **software develo
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmtqaWFqdHZzYmppeDFzZXZpOW40c2p2bGppY3YzOTFveGQ0ZGd0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif"  />
 </div>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=muhadilaga&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
+[![](https://komarev.com/ghpvc/?username=muhadilaga&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ###
 
