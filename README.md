@@ -1,12 +1,16 @@
-## Hi y'all! I'm Muhammad Adilaga👋
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=Hi%20y'all,%20I'm%20Muhammad%20Adilaga%F0%9F%A4%9D&fontSize=45&fontColor=0A2947&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
+</div>
+
+###
 
 🎓 Informatics Engineering Student
 💻 Interested in Software Development & Technology 
 🌱 Currently learning and building new projects
 
-<p align="center">
-  <img src="./assets/gif/new.gif" width="150" alt="Adiberlaga Coding Sticker">
-</p>
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnFtZmNva3llYjljanZ5NWN0OWY0ajZ5ZW9nYXdlcDJlczd6Y3p6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/frNC8HLtwZjOLLPbV7/giphy.gif"  />
+</div>
 
 <br clear="both">
 
@@ -36,12 +40,25 @@ I'm an **Informatics Engineering student** with an interest in **software develo
   <img src="https://skillicons.dev/icons?i=git,vscode,mysql" />
 </p>
 
+###
+<div data-importer="image" align="left">
+  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmtqaWFqdHZzYmppeDFzZXZpOW40c2p2bGppY3YzOTFveGQ0ZGd0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif"  />
+</div>
+
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="./profile/stats.svg" alt="adiberlaga GitHub Stats" />
-  <img height="170" src="./profile/top-langs.svg" alt="adiberlaga Top Languages" />
-</p>
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=muhadilaga.muhadilaga&"  />
+</div>
+
+###
 
 ## 🚀 Featured Projects
 
@@ -100,6 +117,11 @@ More projects are coming as I continue learning, experimenting, and building.
 </tr>
 </table>
 
+##
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31btr275czlwd3e7xv3efubawrlq&unique={true|1|on|yes})
+
+
+
 ## 📫 Connect With Me
 
 <p align="left">
@@ -129,3 +151,7 @@ Feel free to explore my repositories and follow my journey as I continue buildin
     ───────────── ✦ ─────────────
   </samp>
 </p>
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/snake-output/snake.svg" alt="Snake animation" />
+
+###
