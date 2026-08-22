@@ -72,8 +72,8 @@ Exploring modern AI-assisted development and vibe coding workflows using IBM Bob
 ## 🚀 Featured Projects
 
 <table>
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 🛡️ Bareskrim Recruitment System
 
@@ -85,7 +85,7 @@ Features Roblox identity verification, cross-group validation, server-side auto-
 `Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `Prisma`
 
 <a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
-  <strong>View Repository →</strong>
+  View Repository →
 </a>
 
 </td>
@@ -97,36 +97,39 @@ Features Roblox identity verification, cross-group validation, server-side auto-
 A program for calculating the **area and perimeter of geometric shapes**, built while practicing programming fundamentals and mathematical logic.
 
 <a href="https://github.com/muhadilaga/Menghitung-Luas-dan-Keliling-Bangun-Datar">
-  <strong>View Repository →</strong>
+  View Repository →
 </a>
 
 </td>
-</tr>
+  </tr>
 
-<tr>
-<td width="50%" valign="top">
+  <tr>
+    <td width="50%" valign="top">
 
 ### 💵 Pecahan Uang
 
 A program that breaks monetary values into **currency denominations**, created to practice algorithms, conditions, and basic programming logic.
 
 <a href="https://github.com/muhadilaga/pecahan-uang">
-  <strong>View Repository →</strong>
+  View Repository →
 </a>
 
 </td>
 
-<h3>📚 StudyFlow</h3>
+<td width="50%" valign="top">
 
-<p>
-  A personal project focused on creating a more <b>structured and efficient study workflow</b>, built while exploring modern development practices and improving my software development skills.
-</p>
+### 📚 StudyFlow
+
+A personal project focused on creating a more **structured and efficient study workflow**, built while exploring modern development practices and improving my software development skills.
 
 <a href="https://github.com/muhadilaga/StudyFlow">
   View Repository →
 </a>
-</tr>
+
+</td>
+  </tr>
 </table>
+
 
 ##
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31btr275czlwd3e7xv3efubawrlq&unique={true|1|on|yes})
