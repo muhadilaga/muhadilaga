@@ -48,7 +48,7 @@ I'm an **Informatics Engineering student** with an interest in **software develo
   <img src="https://img.shields.io/badge/9Router-AI%20Workflow-6D28D9?style=for-the-badge" />
 </p>
 
-Exploring modern **AI-assisted development and vibe coding workflows** using IBM Bob, Hermes, OpenCode, and 9Router.
+Exploring modern AI-assisted development and vibe coding workflows using IBM Bob, Hermes, OpenCode, and 9Router.
 
 ### Database
 <p>
