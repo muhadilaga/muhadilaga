@@ -56,8 +56,11 @@ Exploring modern AI-assisted development and vibe coding workflows using IBM Bob
 </p>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=muhadilaga&theme=dark&hide_border=false)<br/>
+<p align="center">
+  <img width="430" src="https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <br/>
+  <img width="430" src="https://streak-stats.demolab.com/?user=muhadilaga&theme=dark&hide_border=false" alt="GitHub Streak" />
+</p>
 
 
 ---
