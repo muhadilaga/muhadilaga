@@ -40,10 +40,11 @@ I'm an **Informatics Engineering student** with an interest in **software develo
   <img src="https://skillicons.dev/icons?i=git,vscode,mysql" />
 </p>
 
-###
-<div data-importer="image" align="left">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bmtqaWFqdHZzYmppeDFzZXZpOW40c2p2bGppY3YzOTFveGQ0ZGd0dSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/6FWpozKBgrQD4MZwDC/giphy.gif"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/IBM%20Bob-Learning-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
+</p>
+
+Currently exploring **IBM Bob** for AI-assisted software development workflows.
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
