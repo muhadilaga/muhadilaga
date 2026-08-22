@@ -3,7 +3,6 @@
 </div>
 
 ###
-
 🎓 Informatics Engineering Student
 💻 Interested in Software Development & Technology 
 🌱 Currently learning and building new projects
