@@ -122,18 +122,19 @@ More projects are coming as I continue learning, experimenting, and building.
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31btr275czlwd3e7xv3efubawrlq&unique={true|1|on|yes})
 
 
-
 ## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/muhadilaga">
-    <img src="https://img.shields.io/badge/GitHub-muhadilaga-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/muhadilaga" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-muhadilaga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="linkedin.com/in/muhammad-adilaga-b9717a386/">
-    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Adilaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+  <a href="https://www.linkedin.com/in/muhammad-adilaga" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Adilaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/m_adilaga">
-    <img src="https://img.shields.io/badge/Instagram-@m__adilaga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+
+  <a href="https://www.instagram.com/m_adilaga" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-@m__adilaga-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
