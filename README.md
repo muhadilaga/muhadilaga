@@ -51,15 +51,10 @@ I'm an **Informatics Engineering student** with an interest in **software develo
 
 
 ---
-<img src="https://komarev.com/ghpvc/?username=muhadilaga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhadilaga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
-###
-
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=muhadilaga.muhadilaga&"  />
-</div>
-
-###
 
 ## 🚀 Featured Projects
 
