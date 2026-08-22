@@ -2,10 +2,11 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&reversal=false&text=Hi%20y'all,%20I'm%20Muhammad%20Adilaga%F0%9F%A4%9D&fontSize=45&fontColor=0A2947&fontAlign=50&fontAlignY=50&stroke=-&animation=blinking&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=undefined"  />
 </div>
 
-###
-🎓 Informatics Engineering Student
-💻 Interested in Software Development & Technology 
-🌱 Currently learning and building new projects
+<p align="center">
+  🎓 Informatics Engineering Student<br><br>
+  💻 Interested in Software Development & Technology<br><br>
+  🌱 Currently learning and building new projects
+</p>
 
 <div data-importer="image" align="center">
   <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnFtZmNva3llYjljanZ5NWN0OWY0ajZ5ZW9nYXdlcDJlczd6Y3p6YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/frNC8HLtwZjOLLPbV7/giphy.gif"  />
