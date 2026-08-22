@@ -35,16 +35,25 @@ I'm an **Informatics Engineering student** with an interest in **software develo
   <img src="https://skillicons.dev/icons?i=html,css,nodejs" />
 </p>
 
-### Tools & Database
+### Development Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,vscode,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,vscode" />
 </p>
 
+### AI-Assisted Development
 <p>
   <img src="https://img.shields.io/badge/IBM%20Bob-Learning-0F62FE?style=for-the-badge&logo=ibm&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hermes-AI%20Coding-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCode-AI%20Coding-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/9Router-AI%20Workflow-6D28D9?style=for-the-badge" />
 </p>
 
-Currently exploring **IBM Bob** for AI-assisted software development workflows.
+Exploring modern **AI-assisted development and vibe coding workflows** using IBM Bob, Hermes, OpenCode, and 9Router.
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
