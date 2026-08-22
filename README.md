@@ -129,7 +129,7 @@ More projects are coming as I continue learning, experimenting, and building.
     <img src="https://img.shields.io/badge/GitHub-muhadilaga-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 
-  <a href="https://www.linkedin.com/in/muhammad-adilaga" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-adilaga-b9717a386/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Adilaga-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
