@@ -116,13 +116,15 @@ A program that breaks monetary values into **currency denominations**, created t
 
 </td>
 
-<td width="50%" valign="top">
+<h3>📚 StudyFlow</h3>
 
-### 🚧 More Projects
+<p>
+  A personal project focused on creating a more <b>structured and efficient study workflow</b>, built while exploring modern development practices and improving my software development skills.
+</p>
 
-More projects are coming as I continue learning, experimenting, and building.
-
-</td>
+<a href="https://github.com/muhadilaga/StudyFlow">
+  View Repository →
+</a>
 </tr>
 </table>
 
