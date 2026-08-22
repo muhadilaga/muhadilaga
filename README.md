@@ -51,7 +51,7 @@ I'm an **Informatics Engineering student** with an interest in **software develo
 
 
 ---
-[![](https://komarev.com/ghpvc/?username=muhadilaga&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://komarev.com/ghpvc/?username=muhadilaga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
 ###
 
