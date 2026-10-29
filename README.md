@@ -8,7 +8,7 @@ src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=h
 
 </div>
 
-<p align="center">
+<div align="center">
 
   🎓 Fresh Graduate, Informatics Engineering (UNU Cirebon)<br><br>
 
@@ -16,7 +16,7 @@ src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=h
 
   🌱 Open to Junior Developer opportunities
 
-</p>
+</div>
 
 <div data-importer="image" align="center">
 
@@ -30,12 +30,12 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnFtZmNva3llYj1janZ5NWN0W0
 
 ## 👨💻 About Me
 
-<p align="center">
+<div align="center">
 
 I'm a **fresh graduate in Informatics Engineering** from Universitas Nahdlatul Ulama Cirebon, with an interest in **software development and technology**.<br>
 Thesis defended, currently awaiting yudisium.
 
-</p>
+</div>
 
 - 🎓 S1 Informatics Engineering, UNU Cirebon
 - 💻 Exploring software development and modern technologies
@@ -103,11 +103,11 @@ src="https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hi
 
 ---
 
-<p align="center">
+<div align="center">
 
   <img src="https://komarev.com/ghpvc/?username=muhadilaga&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 
-</p>
+</div>
 
 ## 🚀 Featured Projects
 
@@ -243,14 +243,14 @@ Feel free to explore my repositories and follow my journey as I continue buildin
 
 <hr>
 
-<p align="center">
+<div align="center">
 
 ━━━━━━━ ✦ ━━━━━━━━━━━<br>
 Thanks for visiting.<br>
 See you in the next commit.<br>
 ━━━━━━━ ✦ ━━━━━━━━━━━
 
-</p>
+</div>
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/muhadilaga/muhadilaga/snake-output/snake.svg" alt="Snake animation" />
 
