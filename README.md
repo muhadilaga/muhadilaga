@@ -88,16 +88,14 @@ Exploring modern AI-assisted development and vibe coding workflows using Hermes,
 
 </p>
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 
 <div align="center">
 
-  <img width="430"
-src="https://github-readme-stats.shion.dev/api?username=muhadilaga&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api?username=muhadilaga&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=muhadilaga&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-  <br/>
-
-  <img width="430" src="https://streak-stats.demolab.com/?user=muhadilaga&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img height="180em" src="https://github-readme-stats.shion.dev/api/top-langs/?username=muhadilaga&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 
 </div>
 
