@@ -32,63 +32,44 @@ src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnFtZmNva3llYj1janZ5NWN0W0
 
 ## 👨💻 About Me
 
-<div align="center">
+<table>
+  <tr>
+    <td width="140" align="center">
+      <img src="https://github.com/muhadilaga.png" width="120" alt="Muhammad Adilaga" />
+    </td>
+    <td>
 
 I'm a **fresh graduate in Informatics Engineering** from Universitas Nahdlatul Ulama Cirebon, with an interest in **software development and technology**.<br>
 Thesis defended, currently awaiting yudisium.
-
-</div>
 
 - 🎓 S1 Informatics Engineering, UNU Cirebon
 - 💻 Exploring software development and modern technologies
 - 🌱 Learning by building projects and experimenting with new ideas
 - 🚀 Continuously improving my programming and problem-solving skills
 
+    </td>
+  </tr>
+</table>
+
 ## 🛠️ Tech Stack
 
-### Languages
+<div align="center">
 
-<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,php,html,css,react,nextjs,tailwind,laravel,fastapi,postgres,mysql,git,vscode&perline=8" alt="Tech Stack" />
 
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,kotlin,php,cpp" />
-
-</p>
-
-### Web Technologies
-
-<p>
-
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,nextjs,tailwind,laravel" />
-
-</p>
-
-### Development Tools
-
-<p>
-
-  <img src="https://skillicons.dev/icons?i=git,vscode" />
-
-</p>
-
-### AI-Assisted Development
-
-<p>
+  <br>
 
   <img src="https://img.shields.io/badge/Hermes-AI%20Coding-1F2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/OpenCode-AI%20Coding-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/9Router-AI%20Workflow-6D28D9?style=for-the-badge" />
 
-</p>
+</div>
+
+<div align="center">
 
 Exploring modern AI-assisted development and vibe coding workflows using Hermes, OpenCode, and 9Router.
 
-### Database
-
-<p>
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
-
-</p>
+</div>
 
 ## 📊 GitHub Stats
 
@@ -111,107 +92,28 @@ Exploring modern AI-assisted development and vibe coding workflows using Hermes,
 
 ## 🚀 Featured Projects
 
-<table>
+<div align="center">
 
-  <tr>
-    <td width="50%" valign="top">
+  <a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=bareskrim-rekrutmen&theme=tokyonight&hide_border=true" alt="Bareskrim Recruitment System" />
+  </a>
+  <a href="https://github.com/muhadilaga/ml-playground">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=ml-playground&theme=tokyonight&hide_border=true" alt="ML Playground" />
+  </a>
+  <a href="https://github.com/muhadilaga/leafguard-ai-pest-detection">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=leafguard-ai-pest-detection&theme=tokyonight&hide_border=true" alt="LeafGuard" />
+  </a>
+  <a href="https://github.com/muhadilaga/portfolio">
+    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+  </a>
 
-### 🛡️ Bareskrim Recruitment System
+  <br>
 
-A **full-stack recruitment and online examination platform** built for a Roblox roleplay community.
+  🔗 Live demos: [Bareskrim Recruitment](https://bareskrimrbx-recruitment.my.id/) • [ML Playground](https://ml.muhadilaga.my.id) • [Portfolio](https://portfolio.muhadilaga.my.id)
 
-Features Roblox identity verification, cross-group validation, server-side auto-grading, exam attempt control, admin settings, and real-time Discord reporting.
+</div>
 
-**Tech Stack:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS` `PostgreSQL` `Prisma`
-
-<a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
-
-  View Repository →
-
-</a>
-
-<a href="https://bareskrimrbx-recruitment.my.id/">
-
-  Live Demo →
-
-</a>
-
-</td>
-    <td width="50%" valign="top">
-
-### 🤖 ML Playground
-
-A **no-code machine learning web app** — upload data, pick a model, and train it from the browser, no code needed.
-
-Built with my thesis expertise in Random Forest for smart-home energy monitoring in mind.
-
-**Tech Stack:**
-
-`Next.js 14` `FastAPI` `Python` `scikit-learn`
-
-<a href="https://github.com/muhadilaga/ml-playground">
-
-  View Repository →
-
-</a>
-
-<a href="https://ml.muhadilaga.my.id">
-
-  Live Demo →
-
-</a>
-
-</td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 🌿 LeafGuard
-
-An **AI-powered agricultural pest detection project** — upload a plant image, get a YOLO detection with annotated results, and track detection history.
-
-**Tech Stack:**
-
-`Laravel` `PHP` `FastAPI` `Python` `MySQL` `YOLO`
-
-<a href="https://github.com/muhadilaga/leafguard-ai-pest-detection">
-
-  View Repository →
-
-</a>
-
-</td>
-    <td width="50%" valign="top">
-
-### 🌐 Personal Portfolio
-
-My **personal portfolio website**, showcasing my projects, skills, and certifications.
-
-**Tech Stack:**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
-
-<a href="https://github.com/muhadilaga/portfolio">
-
-  View Repository →
-
-</a>
-
-<a href="https://portfolio.muhadilaga.my.id">
-
-  Live Site →
-
-</a>
-
-</td>
-  </tr>
-
-</table>
-
-##
+## 🎵 Spotify
 
 <div align="center">
 
