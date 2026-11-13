@@ -92,22 +92,34 @@ Exploring modern AI-assisted development and vibe coding workflows using Hermes,
 
 ## 🚀 Featured Projects
 
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=bareskrim-rekrutmen&theme=tokyonight&hide_border=true" alt="Bareskrim Recruitment System" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/muhadilaga/ml-playground">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=ml-playground&theme=tokyonight&hide_border=true" alt="ML Playground" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/muhadilaga/leafguard-ai-pest-detection">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=leafguard-ai-pest-detection&theme=tokyonight&hide_border=true" alt="LeafGuard" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/muhadilaga/portfolio">
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-  <a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=bareskrim-rekrutmen&theme=tokyonight&hide_border=true" alt="Bareskrim Recruitment System" />
-  </a>
-  <a href="https://github.com/muhadilaga/ml-playground">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=ml-playground&theme=tokyonight&hide_border=true" alt="ML Playground" />
-  </a>
-  <a href="https://github.com/muhadilaga/leafguard-ai-pest-detection">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=leafguard-ai-pest-detection&theme=tokyonight&hide_border=true" alt="LeafGuard" />
-  </a>
-  <a href="https://github.com/muhadilaga/portfolio">
-    <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
-  </a>
-
-  <br>
 
   🔗 Live demos: [Bareskrim Recruitment](https://bareskrimrbx-recruitment.my.id/) • [ML Playground](https://ml.muhadilaga.my.id) • [Portfolio](https://portfolio.muhadilaga.my.id)
 
