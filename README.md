@@ -96,24 +96,24 @@ Exploring modern AI-assisted development and vibe coding workflows using Hermes,
   <tr>
     <td width="50%">
       <a href="https://github.com/muhadilaga/bareskrim-rekrutmen">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=bareskrim-rekrutmen&theme=tokyonight&hide_border=true" alt="Bareskrim Recruitment System" />
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=bareskrim-rekrutmen&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Bareskrim Recruitment System" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/muhadilaga/ml-playground">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=ml-playground&theme=tokyonight&hide_border=true" alt="ML Playground" />
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=ml-playground&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="ML Playground" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/muhadilaga/leafguard-ai-pest-detection">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=leafguard-ai-pest-detection&theme=tokyonight&hide_border=true" alt="LeafGuard" />
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=leafguard-ai-pest-detection&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="LeafGuard" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/muhadilaga/portfolio">
-        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=portfolio&theme=tokyonight&hide_border=true" alt="Personal Portfolio" />
+        <img src="https://github-readme-stats.shion.dev/api/pin/?username=muhadilaga&repo=portfolio&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Personal Portfolio" />
       </a>
     </td>
   </tr>
