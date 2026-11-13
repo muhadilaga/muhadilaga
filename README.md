@@ -1,5 +1,3 @@
-🌐 Portfolio: https://portfolio.muhadilaga.my.id
-
 <div data-importer="border">
 
   <img width="100%"
