@@ -10,15 +10,7 @@
 
 </div>
 
-<div data-importer="image" align="center">
-
-  <img data-importer="image" height="200"
-src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnFtZmNva3llYj1janZ5NWN0W0YajZ5ZW9nYXd1cDJlczd6Y3p6YiZlcD12MV9naWZaX3N1YXJjaCZjdD1n/frNC8HLtwZjOLLPPbV7/giphy.gif"
-  />
-
 </div>
-
-<br clear="both">
 
 ## 👨💻 About Me
 
