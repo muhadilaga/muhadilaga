@@ -8,15 +8,7 @@ src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Fresh+Graduate+%E2%80%A2+Informatics+Engineering;Junior+Developer+%E2%80%94+Open+to+Work;Next.js+%E2%80%A2+Laravel+%E2%80%A2+Python+%E2%80%A2+FastAPI" alt="Typing SVG" />
-
-  <br>
-
-  <a href="https://portfolio.muhadilaga.my.id">
-    <img src="https://img.shields.io/badge/Portfolio-muhadilaga.my.id-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <img src="https://img.shields.io/badge/Status-Open_to_Work-2EA043?style=for-the-badge" alt="Open to Work" />
-  <img src="https://img.shields.io/badge/Location-Cirebon%2C_Indonesia-0A66C2?style=for-the-badge" alt="Location" />
+  <img src="./assets/oni-cool.gif" width="400" alt="im just COOL — Oni" />
 
 </div>
 
