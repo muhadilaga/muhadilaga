@@ -1,8 +1,6 @@
-<div data-importer="border">
+<div align="center">
 
-  <img width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:7C3AED&height=240&section=header&text=Hi%20y%27all%2C%20I%27m%20Muhammad%20Adilaga%20%F0%9F%A4%9D&fontSize=40&fontColor=FFFFFF&animation=fadeIn&fontAlignY=36&desc=Informatics%20Engineering%20Fresh%20Graduate&descSize=20&descColor=E0E7FF&descAlignY=58"
-  />
+  <img width="100%" src="./assets/header.gif" alt="Hi y'all, I'm Muhammad Adilaga — Informatics Engineering Fresh Graduate" />
 
 </div>
 
