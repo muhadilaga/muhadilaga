@@ -1,12 +1,12 @@
 <div align="center">
 
-  <img width="100%" src="./assets/header.gif" alt="Hi y'all, I'm Muhammad Adilaga — Informatics Engineering Fresh Graduate" />
+  <img width="100%" src="./assets/header.png" alt="Hi y'all, I'm Muhammad Adilaga — Informatics Engineering Fresh Graduate" />
 
 </div>
 
 <div align="center">
 
-  <img src="./assets/oni-cool.gif" width="400" alt="im just COOL — Oni" />
+  <img src="./assets/oni-cool.png" width="400" alt="im just COOL — Oni" />
 
 </div>
 
