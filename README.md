@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img width="100%" src="./assets/header.png" alt="Hi y'all, I'm Muhammad Adilaga — Informatics Engineering Fresh Graduate" />
+  <img width="100%" src="./assets/header.svg" alt="Hi y'all, I'm Muhammad Adilaga — Informatics Engineering Fresh Graduate" />
 
 </div>
 
