@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="./assets/oni-cool.png" width="400" alt="im just COOL — Oni" />
+  <img src="./assets/oni-animated.svg" width="400" alt="im just COOL — Oni (animated)" />
 
 </div>
 
